@@ -117,12 +117,9 @@ section {
 
 #nav-list {
   color: white;
-  background-color: #ffe1cc;
+  text-allign: center;
 }
 
-#nav-list a:hover {
-  background-color: #E7E7E7;
-}
 hr {
   border-color: white;
 }
