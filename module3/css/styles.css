@@ -30,6 +30,7 @@ section {
 	color: black;
 	position: relative;
 	overflow: auto;
+	margin-bottom: 20px;
 }
 
 #chicken {
