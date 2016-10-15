@@ -117,8 +117,12 @@ section {
 
 #nav-list {
   color: white;
+  background: #ffe1cc;
 }
 
+#nav-list a:hover {
+  background: #E7E7E7;
+}
 hr {
   border-color: white;
 }
